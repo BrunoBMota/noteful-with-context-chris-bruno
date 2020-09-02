@@ -1,0 +1,23 @@
+.main-section-route {
+  border: 1px solid red;
+}
+
+.main-section-route-list{
+  border: 1px dotted #333;
+}
+
+.folder {
+  border: 2px solid green;
+  margin: 20px 0;
+}
+
+
+.expanded-note-container {
+  margin: 40px;
+  border: 5px solid #333;
+}
+
+.note-list-item {
+  margin: 20px 5px;
+  border: 2px solid green;
+}
